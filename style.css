@@ -78,6 +78,7 @@ main {
 }
 
 .flip-back {
+    background-color: aliceblue;
     transform: rotateY(180deg);
 }
 
